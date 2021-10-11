@@ -46,7 +46,7 @@ function Posts() {
                 <Heart></Heart>
               </div>
               <div className="image">
-                <img src={product.url} alt="" />
+                <img src={product.url} alt="product image" />
               </div>
               <div className="content">
                 <p className="rate">&#x20B9; {product.price} </p>
